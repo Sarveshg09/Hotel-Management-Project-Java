@@ -11,6 +11,9 @@ when it restarts to know the previous status of the hotel. Writing of file has b
 separate thread as it can be done parallely. User defined exception is thrown if the user
 tries to book an already allotted room. Exception handling is properly done to deal with any
 kind of unexpected exception.
+
+![Sarveshotel](https://github.com/Sarveshg09/Hotel-Management-Project-Java/assets/98415226/e7202ad0-6e9e-40f0-abb6-2f46ac75e6c2)
+
 ##### Topics Covered-  
 Classes and Objects, Inheritance, File Handling with Objects, ArrayList, implementing
 Interface, User defined exception and Exception handling.
